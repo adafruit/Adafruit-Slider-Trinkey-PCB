@@ -1,0 +1,2196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 537.69 358.75">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        clip-path: url(#clippath-51);
+      }
+
+      .st1, .st2, .st3, .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st1, .st6, .st7, .st8, .st9, .st4, .st5, .st10 {
+        isolation: isolate;
+      }
+
+      .st1, .st8, .st4, .st10 {
+        font-size: 8px;
+      }
+
+      .st1, .st10 {
+        font-family: CourierNewPSMT, 'Courier New';
+      }
+
+      .st11 {
+        fill: #009292;
+      }
+
+      .st12 {
+        clip-path: url(#clippath-34);
+      }
+
+      .st13 {
+        opacity: .2;
+      }
+
+      .st14 {
+        clip-path: url(#clippath-38);
+      }
+
+      .st15 {
+        clip-path: url(#clippath-21);
+      }
+
+      .st16 {
+        fill: #7c7c7c;
+      }
+
+      .st17 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st18 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st19 {
+        clip-path: url(#clippath-17);
+      }
+
+      .st20 {
+        clip-path: url(#clippath-31);
+      }
+
+      .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29 {
+        fill: none;
+      }
+
+      .st21, .st22, .st23, .st24, .st25, .st27, .st28, .st29 {
+        stroke-miterlimit: 5.33;
+      }
+
+      .st21, .st27, .st28, .st29 {
+        stroke: #fff;
+      }
+
+      .st21, .st28 {
+        stroke-width: .48px;
+      }
+
+      .st30 {
+        fill: #ffb6db;
+      }
+
+      .st31 {
+        fill: #4040ff;
+      }
+
+      .st32 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st33 {
+        clip-path: url(#clippath-33);
+      }
+
+      .st22 {
+        stroke: #8c8c8c;
+        stroke-width: .95px;
+      }
+
+      .st22, .st28, .st29 {
+        stroke-linecap: round;
+      }
+
+      .st34 {
+        clip-path: url(#clippath-18);
+      }
+
+      .st35 {
+        clip-path: url(#clippath-47);
+      }
+
+      .st36 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st37 {
+        clip-path: url(#clippath-22);
+      }
+
+      .st38 {
+        clip-path: url(#clippath-23);
+      }
+
+      .st39 {
+        clip-path: url(#clippath-54);
+      }
+
+      .st40 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st41 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st42 {
+        clip-path: url(#clippath-42);
+      }
+
+      .st43 {
+        clip-path: url(#clippath-59);
+      }
+
+      .st44 {
+        clip-path: url(#clippath-43);
+      }
+
+      .st45 {
+        fill: #40ff40;
+      }
+
+      .st46 {
+        clip-path: url(#clippath-25);
+      }
+
+      .st23 {
+        stroke: #7f7f36;
+      }
+
+      .st23, .st24 {
+        stroke-width: .47px;
+      }
+
+      .st47 {
+        fill: #f0f0f0;
+      }
+
+      .st24 {
+        stroke: #737373;
+      }
+
+      .st48 {
+        fill: #924900;
+      }
+
+      .st49 {
+        clip-path: url(#clippath-27);
+      }
+
+      .st50 {
+        fill: #004949;
+      }
+
+      .st51 {
+        fill: #645050;
+      }
+
+      .st25 {
+        stroke: #9a916c;
+        stroke-width: 1.89px;
+      }
+
+      .st52 {
+        clip-path: url(#clippath-60);
+      }
+
+      .st53 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st54 {
+        clip-path: url(#clippath-57);
+      }
+
+      .st27 {
+        stroke-width: .77px;
+      }
+
+      .st55 {
+        clip-path: url(#clippath-36);
+      }
+
+      .st56 {
+        clip-path: url(#clippath-35);
+      }
+
+      .st57 {
+        clip-path: url(#clippath-48);
+      }
+
+      .st6 {
+        font-size: 16px;
+      }
+
+      .st6, .st8, .st3, .st9, .st4 {
+        font-family: CourierNewPS-BoldMT, 'Courier New';
+        font-weight: 700;
+      }
+
+      .st58 {
+        clip-path: url(#clippath-28);
+      }
+
+      .st59 {
+        fill: #24ff24;
+      }
+
+      .st60 {
+        fill: #e0e0e0;
+      }
+
+      .st61 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st62 {
+        clip-path: url(#clippath-56);
+      }
+
+      .st63 {
+        fill: #a0a0a0;
+      }
+
+      .st64 {
+        fill: #b6dbff;
+      }
+
+      .st65 {
+        clip-path: url(#clippath-45);
+      }
+
+      .st66 {
+        clip-path: url(#clippath-46);
+      }
+
+      .st67 {
+        fill: #ffff6d;
+      }
+
+      .st68 {
+        clip-path: url(#clippath-40);
+      }
+
+      .st69 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st70 {
+        clip-path: url(#clippath-20);
+      }
+
+      .st71 {
+        fill: #c8c8c8;
+      }
+
+      .st72 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st73 {
+        clip-path: url(#clippath-52);
+      }
+
+      .st74 {
+        clip-path: url(#clippath-41);
+      }
+
+      .st75 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st76 {
+        opacity: .4;
+      }
+
+      .st77 {
+        clip-path: url(#clippath-26);
+      }
+
+      .st78 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st79 {
+        clip-path: url(#clippath-50);
+      }
+
+      .st3 {
+        font-size: 8px;
+      }
+
+      .st80 {
+        clip-path: url(#clippath-14);
+      }
+
+      .st81 {
+        fill: #920000;
+      }
+
+      .st9 {
+        font-size: 21.33px;
+      }
+
+      .st82 {
+        clip-path: url(#clippath-30);
+      }
+
+      .st83 {
+        clip-path: url(#clippath-19);
+      }
+
+      .st84 {
+        fill: #1a1a1a;
+      }
+
+      .st85 {
+        fill: #9a916c;
+      }
+
+      .st86 {
+        clip-path: url(#clippath-32);
+      }
+
+      .st87 {
+        fill: #6db6ff;
+      }
+
+      .st88 {
+        clip-path: url(#clippath-55);
+      }
+
+      .st5 {
+        font-family: ArialMT, Arial;
+        font-size: 3.56px;
+      }
+
+      .st89 {
+        clip-path: url(#clippath-53);
+      }
+
+      .st90 {
+        clip-path: url(#clippath-39);
+      }
+
+      .st91 {
+        clip-path: url(#clippath-16);
+      }
+
+      .st92 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st93 {
+        fill: #dcdcdc;
+      }
+
+      .st94 {
+        clip-path: url(#clippath-29);
+      }
+
+      .st29 {
+        stroke-width: .58px;
+      }
+
+      .st95 {
+        clip-path: url(#clippath-49);
+      }
+
+      .st96 {
+        clip-path: url(#clippath-37);
+      }
+
+      .st97 {
+        clip-path: url(#clippath-58);
+      }
+
+      .st98 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st99 {
+        clip-path: url(#clippath-24);
+      }
+
+      .st100 {
+        fill: #ff4000;
+      }
+
+      .st101 {
+        clip-path: url(#clippath);
+      }
+
+      .st102 {
+        clip-path: url(#clippath-44);
+      }
+
+      .st103 {
+        fill: #e6e6e6;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st26" width="537.69" height="358.75"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st26" x="33.05" y="134.24" width="24" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st26" x="86.08" y="134.32" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st26" x="110.08" y="134.32" width="4.8" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st26" x="119.91" y="134.32" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st26" x="143.91" y="134.32" width="9.6" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="st26" x="158.31" y="134.32" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="st26" x="182.31" y="134.32" width="33.61" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="st26" x="220.71" y="134.32" width="33.61" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st26" x="430.86" y="157.56" width="12.88" height="3.93"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="st26" x="430.13" y="116.64" width="18.03" height="3.93"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="st26" x="277.38" y="121.27" width="132.29" height="1.47"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="st26" x="277.38" y="153.82" width="132.29" height="1.47"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="st26" x="289.23" y="143.77" width="108.81" height=".73"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="st26" x="289.23" y="132.36" width="108.81" height="4.54"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="st26" x="297.74" y="124.56" width="28.92" height="2"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="st26" x="297.74" y="149.9" width="28.92" height="2"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="st26" x="442.19" y="163.06" width="14.4" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="st26" x="233.17" y="148.43" width="19.37" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="st26" x="66.87" y="120.31" width="62.53" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="st26" x="134.08" y="120.31" width="19.2" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="st26" x="158.08" y="120.39" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="st26" x="182.08" y="120.39" width="4.8" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="st26" x="194.08" y="120.39" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="st26" x="220.48" y="120.39" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="st26" x="244.48" y="120.39" width="9.6" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="st26" x="61.99" y="134.24" width="19.2" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="st26" x="281.43" y="176.81" width="38.49" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="st26" x="324.71" y="176.81" width="19.2" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="st26" x="348.71" y="176.89" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="st26" x="372.71" y="176.89" width="4.8" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="st26" x="382.31" y="176.89" width="24" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="st26" x="411.11" y="176.89" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="st26" x="435.11" y="176.89" width="9.6" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect class="st26" x="449.51" y="176.89" width="19.2" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="st26" x="473.51" y="176.89" width="33.61" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="st26" x="106.58" y="199.83" width="24" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="st26" x="106.58" y="209.43" width="14.4" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect class="st26" x="106.58" y="219.04" width="86.41" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="st26" x="106.41" y="228.64" width="57.78" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="st26" x="106.58" y="238.23" width="19.2" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="st26" x="106.58" y="247.83" width="14.4" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect class="st26" x="106.58" y="257.44" width="38.41" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="st26" x="106.41" y="267.04" width="14.57" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect class="st26" x="106.58" y="276.64" width="24" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="st26" x="106.58" y="286.23" width="48.01" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <rect class="st26" x="106.58" y="295.83" width="24" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect class="st26" x="106.58" y="305.44" width="33.61" height="12.05"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <rect class="st26" x="270.19" y="226.14" width="182.43" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect class="st26" x="270.19" y="234.14" width="177.63" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <rect class="st26" x="270.19" y="242.14" width="177.63" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <rect class="st26" x="270.19" y="250.14" width="163.23" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <rect class="st26" x="270.19" y="258.14" width="168.03" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect class="st26" x="270.19" y="266.14" width="163.23" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <rect class="st26" x="270.19" y="274.14" width="182.43" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect class="st26" x="270.19" y="282.14" width="172.83" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <rect class="st26" x="270.19" y="290.14" width="182.43" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <rect class="st26" x="270.19" y="298.14" width="192.03" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <rect class="st26" x="270.19" y="306.14" width="144.02" height="11.72"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <rect class="st26" x="106.78" y="39.75" width="294.9" height="32.13"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <rect class="st26" x="78.06" y="63.99" width="355.26" height="24.1"/>
+    </clipPath>
+  </defs>
+  <g id="svg22698" sodipodi:docname="Adafruit Slider Trinkey Pinout.svg">
+    <sodipodi:namedview id="namedview22700" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="g22706" inkscape:cx="367.69563" inkscape:cy="-16.952888" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1385" inkscape:window-maximized="0" inkscape:window-width="1696" inkscape:window-x="1724" inkscape:window-y="16" inkscape:zoom="1.0801896" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+    <g id="g22708">
+      <path id="path22710" class="st22" d="M39.65,138.27h226.13" inkscape:connector-curvature="0"/>
+    </g>
+    <g class="st101">
+      <g id="g22720">
+        <path id="path22722" class="st103" d="M32.92,134.47h24.26c.71,0,1.28.57,1.28,1.27v5.07c0,.7-.57,1.28-1.28,1.28h-24.26c-.7,0-1.28-.57-1.28-1.28v-5.07c0-.7.57-1.27,1.28-1.27" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22724">
+        <path id="path22726" class="st24" d="M32.92,134.47h24.26c.71,0,1.28.57,1.28,1.27v5.07c0,.7-.57,1.28-1.28,1.28h-24.26c-.7,0-1.28-.57-1.28-1.28v-5.07c0-.7.57-1.27,1.28-1.27Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22728">
+        <g id="g22742">
+          <g class="st61">
+            <g id="g22740">
+              <g id="text22738" class="st7">
+                <text class="st8" transform="translate(33.05 140.61)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st8" transform="translate(37.85 140.61)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st8" transform="translate(42.65 140.61)"><tspan x="0" y="0">U</tspan></text>
+                <text class="st8" transform="translate(47.45 140.61)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st8" transform="translate(52.25 140.61)"><tspan x="0" y="0">H</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22744">
+        <path id="path22746" class="st67" d="M85.95,134.23h19.46c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-19.46c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22748">
+        <g id="g22762">
+          <g class="st92">
+            <g id="g22760">
+              <g id="text22758" class="st7">
+                <text class="st10" transform="translate(86.08 140.61)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st10" transform="translate(90.88 140.61)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(95.68 140.61)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(100.48 140.61)"><tspan x="0" y="0">7</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22764">
+        <path id="path22766" class="st59" d="M109.95,134.23h5.06c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22768">
+        <g id="g22782">
+          <g class="st75">
+            <g id="g22780">
+              <g id="text22778" class="st7">
+                <text class="st10" transform="translate(110.08 140.61)"><tspan x="0" y="0">7</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22784">
+        <path id="path22786" class="st64" d="M119.78,134.23h19.46c.84,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-19.46c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22788">
+        <g id="g22802">
+          <g class="st36">
+            <g id="g22800">
+              <g id="text22798" class="st7">
+                <text class="st10" transform="translate(119.91 140.61)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(124.71 140.61)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(129.51 140.61)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st10" transform="translate(134.31 140.61)"><tspan x="0" y="0">7</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22804">
+        <path id="path22806" class="st87" d="M143.78,134.23h9.86c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-9.86c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22808">
+        <g id="g22822">
+          <g class="st69">
+            <g id="g22820">
+              <g id="text22818" class="st7">
+                <text class="st10" transform="translate(143.91 140.61)"><tspan x="0" y="0">Y</tspan></text>
+                <text class="st10" transform="translate(148.71 140.61)"><tspan x="0" y="0">5</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22824">
+        <path id="path22826" class="st30" d="M158.18,134.23h19.47c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-19.47c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22828">
+        <g id="g22842">
+          <g class="st17">
+            <g id="g22840">
+              <g id="text22838" class="st7">
+                <text class="st10" transform="translate(158.31 140.61)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(163.11 140.61)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(167.91 140.61)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st10" transform="translate(172.71 140.61)"><tspan x="0" y="0">3</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22844">
+        <path id="path22846" class="st48" d="M182.18,134.23h33.86c.84,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-33.86c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22848">
+        <g id="g22862">
+          <g class="st18">
+            <g id="g22860">
+              <g id="text22858" class="st7">
+                <text class="st1" transform="translate(182.31 140.61)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st1" transform="translate(187.11 140.61)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st1" transform="translate(191.91 140.61)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st1" transform="translate(196.71 140.61)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st1" transform="translate(201.51 140.61)"><tspan x="0" y="0">[</tspan></text>
+                <text class="st1" transform="translate(206.31 140.61)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st1" transform="translate(211.11 140.61)"><tspan x="0" y="0">]</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22864">
+        <path id="path22866" class="st67" d="M220.58,134.47h33.86c.71,0,1.28.57,1.28,1.27v5.07c0,.7-.57,1.27-1.28,1.27h-33.86c-.7,0-1.28-.57-1.28-1.27v-5.07c0-.7.57-1.27,1.28-1.27" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22868">
+        <path id="path22870" class="st23" d="M220.58,134.47h33.86c.71,0,1.28.57,1.28,1.27v5.07c0,.7-.57,1.27-1.28,1.27h-33.86c-.7,0-1.28-.57-1.28-1.27v-5.07c0-.7.57-1.27,1.28-1.27Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22872">
+        <g id="g22886">
+          <g class="st72">
+            <g id="g22884">
+              <g id="text22882" class="st7">
+                <text class="st10" transform="translate(220.71 140.61)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(225.51 140.61)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(230.31 140.61)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(235.11 140.61)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st10" transform="translate(239.91 140.61)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(244.71 140.61)"><tspan x="0" y="0">D</tspan></text>
+                <text class="st10" transform="translate(249.51 140.61)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22888">
+        <path id="path22890" d="M404.57,145.83c0,1.25,1.02,2.27,2.27,2.27s2.27-1.02,2.27-2.27-1.01-2.27-2.27-2.27-2.27,1.02-2.27,2.27M277.95,130.72c0,1.25,1.01,2.27,2.27,2.27s2.27-1.01,2.27-2.27-1.01-2.27-2.27-2.27-2.27,1.02-2.27,2.27M277.95,145.83c0,1.25,1.01,2.27,2.27,2.27s2.27-1.02,2.27-2.27-1.01-2.27-2.27-2.27-2.27,1.02-2.27,2.27M458.73,156.28c0,2.65-2.15,4.8-4.8,4.8h-180.96c-5.3,0-9.6-4.3-9.6-9.6v-26.4c0-5.3,4.3-9.6,9.6-9.6h180.96c2.65,0,4.8,2.15,4.8,4.8v36" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22892">
+        <g id="g22906">
+          <g class="st40">
+            <g id="g22904">
+              <g id="text22902" class="st7">
+                <text class="st5" transform="translate(430.86 160.73)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st5" transform="translate(433.44 160.73)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st5" transform="translate(436.02 160.73)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st5" transform="translate(438.59 160.73)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st5" transform="translate(441.17 160.73)"><tspan x="0" y="0">e</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22908">
+        <g id="g22922">
+          <g class="st41">
+            <g id="g22920">
+              <g id="text22918" class="st7">
+                <text class="st5" transform="translate(448.17 117.4) rotate(-180)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st5" transform="translate(445.59 117.4) rotate(-180)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st5" transform="translate(443.01 117.4) rotate(-180)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st5" transform="translate(440.44 117.4) rotate(-180)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st5" transform="translate(437.86 117.4) rotate(-180)"><tspan x="0" y="0">k</tspan></text>
+                <text class="st5" transform="translate(435.28 117.4) rotate(-180)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st5" transform="translate(432.71 117.4) rotate(-180)"><tspan x="0" y="0">y</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g22924">
+        <path id="path22926" class="st28" d="M294.55,144.32v-12.09" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22928">
+        <path id="path22930" class="st28" d="M294.55,132.23h7.18" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22932">
+        <path id="path22934" class="st28" d="M301.74,132.23h3.4" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22936">
+        <path id="path22938" class="st28" d="M305.14,132.23v3.4" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22940">
+        <path id="path22942" class="st28" d="M305.14,135.63v8.69" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22944">
+        <path id="path22946" class="st28" d="M305.14,144.32h-10.58" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22948">
+        <path id="path22950" class="st28" d="M301.74,132.23l3.4,3.4" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22952">
+        <path id="path22954" class="st28" d="M305.14,135.63l1.13,1.13" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22956">
+        <path id="path22958" class="st28" d="M306.27,136.76l1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22960">
+        <path id="path22962" class="st28" d="M307.78,135.25l-2.65-3.02" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22964">
+        <path id="path22966" class="st21" d="M299.85,134.12c2.3,0,4.16,1.86,4.16,4.16s-1.86,4.16-4.16,4.16-4.16-1.86-4.16-4.16,1.86-4.16,4.16-4.16Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22968">
+        <path id="path22970" class="st28" d="M392.02,132.23v12.09" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22972">
+        <path id="path22974" class="st28" d="M392.02,144.32h-7.18" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22976">
+        <path id="path22978" class="st28" d="M384.83,144.32h-3.4" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22980">
+        <path id="path22982" class="st28" d="M381.43,144.32v-3.4" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22984">
+        <path id="path22986" class="st28" d="M381.43,140.92v-8.69" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22988">
+        <path id="path22990" class="st28" d="M381.43,132.23h10.58" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22992">
+        <path id="path22994" class="st28" d="M384.83,144.32l-3.4-3.4" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g22996">
+        <path id="path22998" class="st28" d="M381.43,140.92l-1.13-1.13" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23000">
+        <path id="path23002" class="st28" d="M380.3,139.79l-1.51,1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23004">
+        <path id="path23006" class="st28" d="M378.79,141.3l2.65,3.02" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23008">
+        <path id="path23010" class="st21" d="M386.73,134.12c2.3,0,4.16,1.86,4.16,4.16s-1.86,4.16-4.16,4.16-4.16-1.86-4.16-4.16,1.86-4.16,4.16-4.16Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23012">
+        <path id="path23014" class="st29" d="M277.38,121.27h132.28" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23016">
+        <path id="path23018" class="st29" d="M409.67,121.27v34.02" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23020">
+        <path id="path23022" class="st29" d="M409.67,155.28h-132.28" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23024">
+        <path id="path23026" class="st29" d="M277.38,155.28v-34.02" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23028">
+        <path id="path23030" class="st29" d="M292.5,132.61h102.05" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23032">
+        <path id="path23034" class="st29" d="M394.55,132.61v11.34" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23036">
+        <path id="path23038" class="st29" d="M394.55,143.95h-102.05" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23040">
+        <path id="path23042" class="st29" d="M292.5,143.95v-11.34" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23044">
+        <path id="path23046" class="st27" d="M266.73,121.7c.94,0,1.7.76,1.7,1.7s-.76,1.7-1.7,1.7-1.7-.76-1.7-1.7.76-1.7,1.7-1.7Z" inkscape:connector-curvature="0"/>
+      </g>
+      <path id="path23048" class="st85" d="M454.93,154.34h-28.35v-5.67h28.35v5.67Z" inkscape:connector-curvature="0"/>
+      <path id="path23050" class="st85" d="M451.15,136.39h-24.57v-3.78h24.57v3.78Z" inkscape:connector-curvature="0"/>
+      <path id="path23052" class="st85" d="M451.15,143.95h-24.57v-3.78h24.57v3.78Z" inkscape:connector-curvature="0"/>
+      <path id="path23054" class="st85" d="M454.93,127.88h-28.35v-5.67h28.35v5.67Z" inkscape:connector-curvature="0"/>
+      <g id="g23056">
+        <path id="path23058" class="st25" d="M280.22,142.62c1.77,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21-3.21-1.44-3.21-3.21,1.44-3.21,3.21-3.21Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23060">
+        <path id="path23062" class="st25" d="M280.22,127.5c1.77,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21-3.21-1.44-3.21-3.21,1.44-3.21,3.21-3.21Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23064">
+        <path id="path23066" class="st25" d="M406.83,142.62c1.77,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21-3.21-1.44-3.21-3.21,1.44-3.21,3.21-3.21Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23068">
+        <path id="path23070" class="st85" d="M266.73,122.45h0c.52,0,.94.42.94.94s-.42.95-.94.95-.95-.42-.95-.95.42-.94.95-.94" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23072">
+        <path id="path23074" class="st85" d="M273.18,161.18h0c-5.29,0-9.57-3.27-9.57-7.3l.03-31.21c0-4.03,4.29-7.29,9.58-7.29" inkscape:connector-curvature="0"/>
+      </g>
+      <path id="path23076" class="st63" d="M277.38,121.27h132.29v34.02h-132.29v-34.02Z" inkscape:connector-curvature="0"/>
+      <g id="g23078">
+        <g id="g23090">
+          <g class="st53">
+            <g id="g23088" class="st13">
+              <path id="path23086" class="st2" d="M277.38,121.27h132.29v1.47h-132.29v-1.47Z" inkscape:connector-curvature="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23092">
+        <g id="g23104">
+          <g class="st78">
+            <g id="g23102" class="st13">
+              <path id="path23100" d="M277.38,153.82h132.29v1.47h-132.29v-1.47Z" inkscape:connector-curvature="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="path23106" class="st84" d="M289.23,132.36h108.81v11.83h-108.81v-11.83Z" inkscape:connector-curvature="0"/>
+      <path id="path23108" class="st16" d="M290.29,135.15h106.62v6.25h-106.62v-6.25Z" inkscape:connector-curvature="0"/>
+      <path id="path23110" d="M289.23,132.03h108.81v.66h-108.81v-.66Z" inkscape:connector-curvature="0"/>
+      <g id="g23112">
+        <g id="g23124">
+          <g class="st98">
+            <g id="g23122" class="st76">
+              <path id="path23120" class="st2" d="M289.23,143.76h108.81v.73h-108.81v-.73Z" inkscape:connector-curvature="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23126">
+        <g id="g23138">
+          <g class="st80">
+            <g id="g23136" class="st76">
+              <path id="path23134" d="M289.23,132.36h108.81v4.54h-108.81v-4.54Z" inkscape:connector-curvature="0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23140">
+        <path id="path23142" class="st2" d="M326.66,150.56c0,.73-1.55,1.33-3.45,1.33h-22.01c-1.9,0-3.45-.6-3.45-1.33v-24.67c0-.74,1.55-1.33,3.45-1.33h22.01c1.9,0,3.45.6,3.45,1.33v24.67Z" inkscape:connector-curvature="0"/>
+      </g>
+      <path id="path23144" class="st2" d="M301.95,124.56h11.98v27.33h-11.98v-27.33Z" inkscape:connector-curvature="0"/>
+      <path id="path23146" class="st2" d="M306.26,124.56h6.91v27.33h-6.91v-27.33Z" inkscape:connector-curvature="0"/>
+      <path id="path23148" class="st60" d="M310.27,124.56h3.85v27.33h-3.85v-27.33Z" inkscape:connector-curvature="0"/>
+      <g id="g23150">
+        <g id="g23164">
+          <g class="st32">
+            <g id="g23162" class="st13">
+              <g id="g23160">
+                <path id="path23158" class="st2" d="M326.66,126.56c0-.74-1.55-1.33-3.45-1.33h-22.01c-1.9,0-3.45.6-3.45,1.33v-.67c0-.74,1.55-1.33,3.45-1.33h22.01c1.9,0,3.45.6,3.45,1.33v.67Z" inkscape:connector-curvature="0"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23166">
+        <g id="g23180">
+          <g class="st91">
+            <g id="g23178" class="st13">
+              <g id="g23176">
+                <path id="path23174" class="st2" d="M297.74,149.9c0,.73,1.55,1.33,3.45,1.33h22.01c1.9,0,3.45-.6,3.45-1.33v.67c0,.73-1.55,1.33-3.45,1.33h-22.01c-1.9,0-3.45-.6-3.45-1.33v-.67Z" inkscape:connector-curvature="0"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23182">
+        <path id="path23184" d="M283.4,134.48c2.1,0,3.8,1.7,3.8,3.8s-1.7,3.8-3.8,3.8-3.8-1.7-3.8-3.8,1.7-3.8,3.8-3.8" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23186">
+        <path id="path23188" d="M403.82,134.43c2.1,0,3.8,1.7,3.8,3.8s-1.7,3.8-3.8,3.8-3.8-1.7-3.8-3.8,1.7-3.8,3.8-3.8" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23190">
+        <path id="path23192" class="st22" d="M450.58,167.09h-19.73" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23194">
+        <path id="path23196" d="M437.26,163.05h24.26c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-24.26c-.84,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23198">
+        <g id="g23212">
+          <g class="st19">
+            <g id="g23210">
+              <g id="text23208" class="st7">
+                <text class="st4" transform="translate(442.19 169.43)"><tspan x="0" y="0">G</tspan></text>
+                <text class="st4" transform="translate(446.99 169.43)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st4" transform="translate(451.79 169.43)"><tspan x="0" y="0">D</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23214">
+        <path id="path23216" class="st22" d="M430.54,167.09l-19.99-21.26" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23218">
+        <path id="path23220" class="st22" d="M261.06,152.47h-19.73" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23222">
+        <path id="path23224" class="st81" d="M229.95,148.42h24.26c.83,0,1.51.68,1.51,1.51v5.06c0,.83-.68,1.51-1.51,1.51h-24.26c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.84.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23226">
+        <g id="g23240">
+          <g class="st34">
+            <g id="g23238">
+              <g id="text23236" class="st7">
+                <text class="st4" transform="translate(233.17 154.8)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st4" transform="translate(237.97 154.8)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st4" transform="translate(242.77 154.8)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st4" transform="translate(247.57 154.8)"><tspan x="0" y="0">V</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23242">
+        <path id="path23244" class="st22" d="M276.24,145.83l-15.19,6.63" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23246">
+        <path id="path23248" class="st22" d="M76.18,124.48h185.33" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23250">
+        <path id="path23252" class="st103" d="M66.75,120.53h62.66c.7,0,1.28.57,1.28,1.28v5.06c0,.71-.57,1.28-1.28,1.28h-62.66c-.71,0-1.28-.57-1.28-1.28v-5.06c0-.71.57-1.28,1.28-1.28" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23254">
+        <text/>
+      </g>
+      <g id="g23258">
+        <g id="g23272">
+          <g class="st83">
+            <g id="g23270">
+              <g id="text23268" class="st7">
+                <text class="st8" transform="translate(66.87 126.68)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st8" transform="translate(71.67 126.68)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st8" transform="translate(76.47 126.68)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st8" transform="translate(81.27 126.68)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(86.07 126.68)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st8" transform="translate(90.87 126.68)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st8" transform="translate(95.67 126.68)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st8" transform="translate(100.47 126.68)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st8" transform="translate(105.27 126.68)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st8" transform="translate(110.07 126.68)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(114.87 126.68)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st8" transform="translate(119.67 126.68)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(124.47 126.68)"><tspan x="0" y="0">R</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23274">
+        <path id="path23276" class="st50" d="M133.95,120.3h19.46c.84,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.46c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23278">
+        <g id="g23292">
+          <g class="st70">
+            <g id="g23290">
+              <g id="text23288" class="st7">
+                <text class="st4" transform="translate(138.88 126.68)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st4" transform="translate(143.68 126.68)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st4" transform="translate(148.48 126.68)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23294">
+        <path id="path23296" class="st67" d="M157.95,120.3h19.46c.84,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.46c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23298">
+        <g id="g23312">
+          <g class="st15">
+            <g id="g23310">
+              <g id="text23308" class="st7">
+                <text class="st10" transform="translate(158.08 126.68)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st10" transform="translate(162.88 126.68)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(167.68 126.68)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(172.48 126.68)"><tspan x="0" y="0">2</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23314">
+        <path id="path23316" class="st59" d="M181.95,120.3h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23318">
+        <g id="g23332">
+          <g class="st37">
+            <g id="g23330">
+              <g id="text23328" class="st7">
+                <text class="st10" transform="translate(182.08 126.68)"><tspan x="0" y="0">2</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23334">
+        <path id="path23336" class="st11" d="M191.55,120.3h24.26c.84,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-24.26c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23338">
+        <g id="g23352">
+          <g class="st38">
+            <g id="g23350">
+              <g id="text23348" class="st7">
+                <text class="st1" transform="translate(194.08 126.68)"><tspan x="0" y="0">V</tspan></text>
+                <text class="st1" transform="translate(198.88 126.68)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st1" transform="translate(203.68 126.68)"><tspan x="0" y="0">U</tspan></text>
+                <text class="st1" transform="translate(208.48 126.68)"><tspan x="0" y="0">T</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23354">
+        <path id="path23356" class="st64" d="M220.35,120.3h19.46c.84,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.46c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23358">
+        <g id="g23372">
+          <g class="st99">
+            <g id="g23370">
+              <g id="text23368" class="st7">
+                <text class="st10" transform="translate(220.48 126.68)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(225.28 126.68)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(230.08 126.68)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st10" transform="translate(234.88 126.68)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23374">
+        <path id="path23376" class="st87" d="M244.35,120.3h9.86c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-9.86c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23378">
+        <g id="g23392">
+          <g class="st46">
+            <g id="g23390">
+              <g id="text23388" class="st7">
+                <text class="st10" transform="translate(244.48 126.68)"><tspan x="0" y="0">Y</tspan></text>
+                <text class="st10" transform="translate(249.28 126.68)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23394">
+        <path id="path23396" class="st22" d="M276.24,130.72l-14.73-6.23" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23398">
+        <path id="path23400" class="st50" d="M61.86,134.23h19.47c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-19.47c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23402">
+        <g id="g23416">
+          <g class="st77">
+            <g id="g23414">
+              <g id="text23412" class="st7">
+                <text class="st4" transform="translate(61.99 140.61)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st4" transform="translate(66.79 140.61)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st4" transform="translate(71.59 140.61)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st4" transform="translate(76.39 140.61)"><tspan x="0" y="0">1</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23418">
+        <path id="path23420" class="st103" d="M319.59,174.91h-1.77v1.77l1.77-1.77Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23422">
+        <path id="path23424" class="st22" d="M273.78,180.84h216.53" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23426">
+        <path id="path23428" class="st103" d="M281.38,177.03h38.67c.7,0,1.27.57,1.27,1.28v5.06c0,.7-.57,1.28-1.27,1.28h-38.67c-.7,0-1.28-.57-1.28-1.28v-5.06c0-.7.57-1.28,1.28-1.28" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23430">
+        <path id="path23432" class="st24" d="M281.38,177.03h38.67c.7,0,1.27.57,1.27,1.28v5.06c0,.7-.57,1.28-1.27,1.28h-38.67c-.7,0-1.28-.57-1.28-1.28v-5.06c0-.7.57-1.28,1.28-1.28Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23434">
+        <g id="g23448">
+          <g class="st49">
+            <g id="g23446">
+              <g id="text23444" class="st7">
+                <text class="st8" transform="translate(281.51 183.17)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st8" transform="translate(286.31 183.17)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(291.11 183.17)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st8" transform="translate(295.91 183.17)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st8" transform="translate(300.71 183.17)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st8" transform="translate(305.51 183.17)"><tspan x="0" y="0">X</tspan></text>
+                <text class="st8" transform="translate(310.31 183.17)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(315.11 183.17)"><tspan x="0" y="0">L</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23450">
+        <path id="path23452" class="st50" d="M324.58,176.79h19.46c.84,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.46c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23454">
+        <g id="g23468">
+          <g class="st58">
+            <g id="g23466">
+              <g id="text23464" class="st7">
+                <text class="st4" transform="translate(324.71 183.17)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st4" transform="translate(329.51 183.17)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st4" transform="translate(334.31 183.17)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st4" transform="translate(339.11 183.17)"><tspan x="0" y="0">2</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23470">
+        <path id="path23472" class="st67" d="M348.58,176.79h19.47c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.47c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23474">
+        <g id="g23488">
+          <g class="st94">
+            <g id="g23486">
+              <g id="text23484" class="st7">
+                <text class="st10" transform="translate(348.71 183.17)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st10" transform="translate(353.51 183.17)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(358.31 183.17)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(363.11 183.17)"><tspan x="0" y="0">4</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23490">
+        <path id="path23492" class="st59" d="M372.58,176.79h5.07c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-5.07c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23494">
+        <g id="g23508">
+          <g class="st82">
+            <g id="g23506">
+              <g id="text23504" class="st7">
+                <text class="st10" transform="translate(372.71 183.17)"><tspan x="0" y="0">4</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23510">
+        <path id="path23512" class="st11" d="M382.18,176.79h24.26c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-24.26c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23514">
+        <g id="g23528">
+          <g class="st20">
+            <g id="g23526">
+              <g id="text23524" class="st7">
+                <text class="st1" transform="translate(382.31 183.17)"><tspan x="0" y="0">V</tspan></text>
+                <text class="st1" transform="translate(387.11 183.17)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st1" transform="translate(391.91 183.17)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st1" transform="translate(396.71 183.17)"><tspan x="0" y="0">F</tspan></text>
+                <text class="st1" transform="translate(401.51 183.17)"><tspan x="0" y="0">B</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23530">
+        <path id="path23532" class="st64" d="M410.98,176.79h19.47c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.47c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23534">
+        <g id="g23548">
+          <g class="st86">
+            <g id="g23546">
+              <g id="text23544" class="st7">
+                <text class="st10" transform="translate(411.11 183.17)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(415.91 183.17)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(420.71 183.17)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st10" transform="translate(425.51 183.17)"><tspan x="0" y="0">4</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23550">
+        <path id="path23552" class="st87" d="M434.98,176.79h9.86c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-9.86c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23554">
+        <g id="g23568">
+          <g class="st33">
+            <g id="g23566">
+              <g id="text23564" class="st7">
+                <text class="st10" transform="translate(435.11 183.17)"><tspan x="0" y="0">Y</tspan></text>
+                <text class="st10" transform="translate(439.91 183.17)"><tspan x="0" y="0">2</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23570">
+        <path id="path23572" class="st30" d="M449.38,176.79h19.47c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-19.47c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23574">
+        <g id="g23588">
+          <g class="st12">
+            <g id="g23586">
+              <g id="text23584" class="st7">
+                <text class="st10" transform="translate(449.51 183.17)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(454.31 183.17)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(459.11 183.17)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st10" transform="translate(463.91 183.17)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23590">
+        <path id="path23592" class="st48" d="M473.38,176.79h33.86c.84,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-33.86c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23594">
+        <g id="g23608">
+          <g class="st56">
+            <g id="g23606">
+              <g id="text23604" class="st7">
+                <text class="st1" transform="translate(473.51 183.17)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st1" transform="translate(478.31 183.17)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st1" transform="translate(483.11 183.17)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st1" transform="translate(487.91 183.17)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st1" transform="translate(492.71 183.17)"><tspan x="0" y="0">[</tspan></text>
+                <text class="st1" transform="translate(497.51 183.17)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st1" transform="translate(502.31 183.17)"><tspan x="0" y="0">]</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="path23610" class="st47" d="M264.69,175.93h9.82v9.82h-9.82v-9.82Z" inkscape:connector-curvature="0"/>
+      <g id="g23612">
+        <path id="path23614" class="st93" d="M265.43,180.84c0-2.31,1.87-4.18,4.17-4.18s4.18,1.87,4.18,4.18-1.87,4.17-4.18,4.17-4.17-1.87-4.17-4.17" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23616">
+        <path id="path23618" class="st71" d="M266.17,180.84c0-1.9,1.54-3.44,3.44-3.44s3.44,1.54,3.44,3.44-1.54,3.44-3.44,3.44-3.44-1.54-3.44-3.44" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23620">
+        <path id="path23622" class="st47" d="M271.73,178.87v.08c0,.11-.09.2-.2.2h-1.39c-.11,0-.2-.09-.2-.2v-1.52c-.12-.01-.23-.03-.35-.03s-.23.02-.35.03v4.79c0,.11-.09.2-.2.2h-1.39c-.11,0-.2-.09-.2-.2v-3.35c0-.11-.09-.2-.2-.2h-.33c-.48.59-.79,1.34-.79,2.16,0,.88.34,1.67.88,2.27h2.02c.11,0,.2.09.2.2v.93c.12.01.23.04.35.04s.23-.02.35-.04v-4.2c0-.11.09-.2.2-.2h1.39c.11,0,.2.09.2.2v2.76c0,.11.09.2.2.2h.33c.48-.59.78-1.34.78-2.16s-.3-1.57-.78-2.16h-.33c-.11,0-.2.09-.2.2" inkscape:connector-curvature="0"/>
+      </g>
+      <path id="path23624" class="st51" d="M267.57,180.68h1.57v1.18h-1.57v-1.18Z" inkscape:connector-curvature="0"/>
+      <path id="path23626" class="st100" d="M270.19,180.64h.59v.39h-.59v-.39Z" inkscape:connector-curvature="0"/>
+      <path id="path23628" class="st45" d="M270.19,182.61h.59v.39h-.59v-.39Z" inkscape:connector-curvature="0"/>
+      <path id="path23630" class="st31" d="M323.32,177.65h.59v.39h-.59v-.39Z" inkscape:connector-curvature="0"/>
+      <g id="g23632">
+        <path id="path23634" class="st81" d="M97.33,199.82h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.84.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23636">
+        <g id="g23650">
+          <g class="st55">
+            <g id="g23648">
+              <g id="text23646" class="st7">
+                <text class="st8" transform="translate(106.58 206.2)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st8" transform="translate(111.38 206.2)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st8" transform="translate(116.18 206.2)"><tspan x="0" y="0">w</tspan></text>
+                <text class="st8" transform="translate(120.98 206.2)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st8" transform="translate(125.78 206.2)"><tspan x="0" y="0">r</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23652">
+        <path id="path23654" d="M97.33,209.42h5.06c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23656">
+        <g id="g23670">
+          <g class="st96">
+            <g id="g23668">
+              <g id="text23666" class="st7">
+                <text class="st8" transform="translate(106.58 215.8)"><tspan x="0" y="0">G</tspan></text>
+                <text class="st8" transform="translate(111.38 215.8)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st8" transform="translate(116.18 215.8)"><tspan x="0" y="0">D</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23672">
+        <path id="path23674" class="st103" d="M97.33,219.26h5.06c.71,0,1.28.57,1.28,1.28v5.07c0,.7-.57,1.27-1.28,1.27h-5.06c-.7,0-1.28-.57-1.28-1.27v-5.07c0-.7.57-1.28,1.28-1.28" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23676">
+        <path id="path23678" class="st24" d="M97.33,219.26h5.06c.71,0,1.28.57,1.28,1.28v5.07c0,.7-.57,1.27-1.28,1.27h-5.06c-.7,0-1.28-.57-1.28-1.27v-5.07c0-.7.57-1.28,1.28-1.28Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23680">
+        <g id="g23694">
+          <g class="st14">
+            <g id="g23692">
+              <g id="text23690" class="st7">
+                <text class="st8" transform="translate(106.58 225.4)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st8" transform="translate(111.38 225.4)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st8" transform="translate(116.18 225.4)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st8" transform="translate(120.98 225.4)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st8" transform="translate(125.78 225.4)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st8" transform="translate(130.58 225.4)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st8" transform="translate(135.38 225.4)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st8" transform="translate(140.18 225.4)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st8" transform="translate(144.98 225.4)"><tspan x="0" y="0">y</tspan></text>
+                <text class="st8" transform="translate(149.78 225.4)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st8" transform="translate(154.58 225.4)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st8" transform="translate(159.38 225.4)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st8" transform="translate(164.18 225.4)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st8" transform="translate(168.98 225.4)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st8" transform="translate(173.78 225.4)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st8" transform="translate(178.58 225.4)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st8" transform="translate(183.38 225.4)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st8" transform="translate(188.18 225.4)"><tspan x="0" y="0">e</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23696">
+        <path id="path23698" class="st50" d="M97.33,228.63h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23700">
+        <g id="g23714">
+          <g class="st90">
+            <g id="g23712">
+              <g id="text23710" class="st7">
+                <text class="st8" transform="translate(106.58 235)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st8" transform="translate(111.38 235)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st8" transform="translate(116.18 235)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st8" transform="translate(120.98 235)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st8" transform="translate(125.78 235)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st8" transform="translate(130.58 235)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st8" transform="translate(135.38 235)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st8" transform="translate(140.18 235)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st8" transform="translate(144.98 235)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st8" transform="translate(149.78 235)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st8" transform="translate(154.58 235)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st8" transform="translate(159.38 235)"><tspan x="0" y="0">e</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23716">
+        <path id="path23718" class="st67" d="M97.33,238.23h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.84.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23720">
+        <g id="g23734">
+          <g class="st68">
+            <g id="g23732">
+              <g id="text23730" class="st7">
+                <text class="st8" transform="translate(106.58 244.6)"><tspan x="0" y="0">G</tspan></text>
+                <text class="st8" transform="translate(111.38 244.6)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st8" transform="translate(116.18 244.6)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st8" transform="translate(120.98 244.6)"><tspan x="0" y="0">O</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23736">
+        <path id="path23738" class="st59" d="M97.33,247.82h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.84.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23740">
+        <g id="g23754">
+          <g class="st74">
+            <g id="g23752">
+              <g id="text23750" class="st7">
+                <text class="st8" transform="translate(106.58 254.2)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st8" transform="translate(111.38 254.2)"><tspan x="0" y="0">N</tspan></text>
+                <text class="st8" transform="translate(116.18 254.2)"><tspan x="0" y="0">T</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23756">
+        <path id="path23758" class="st11" d="M97.33,257.42h5.06c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23760">
+        <g id="g23774">
+          <g class="st42">
+            <g id="g23772">
+              <g id="text23770" class="st7">
+                <text class="st8" transform="translate(106.58 263.8)"><tspan x="0" y="0">D</tspan></text>
+                <text class="st8" transform="translate(111.38 263.8)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st8" transform="translate(116.18 263.8)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st8" transform="translate(120.98 263.8)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st8" transform="translate(125.78 263.8)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st8" transform="translate(130.58 263.8)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st8" transform="translate(135.38 263.8)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(140.18 263.8)"><tspan x="0" y="0">F</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23776">
+        <path id="path23778" class="st64" d="M97.33,267.02h5.06c.83,0,1.51.68,1.51,1.51v5.07c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.07c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23780">
+        <g id="g23794">
+          <g class="st44">
+            <g id="g23792">
+              <g id="text23790" class="st7">
+                <text class="st8" transform="translate(106.58 273.4)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st8" transform="translate(111.38 273.4)"><tspan x="0" y="0">D</tspan></text>
+                <text class="st8" transform="translate(116.18 273.4)"><tspan x="0" y="0">C</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23796">
+        <path id="path23798" class="st87" d="M97.33,276.63h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.84-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.67-1.51-1.51v-5.06c0-.83.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23800">
+        <g id="g23814">
+          <g class="st102">
+            <g id="g23812">
+              <g id="text23810" class="st7">
+                <text class="st8" transform="translate(106.58 283)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st8" transform="translate(111.38 283)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st8" transform="translate(116.18 283)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st8" transform="translate(120.98 283)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st8" transform="translate(125.78 283)"><tspan x="0" y="0">h</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23816">
+        <path id="path23818" class="st30" d="M97.33,286.23h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.84.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23820">
+        <g id="g23834">
+          <g class="st65">
+            <g id="g23832">
+              <g id="text23830" class="st7">
+                <text class="st8" transform="translate(106.58 292.6)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st8" transform="translate(111.38 292.6)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st8" transform="translate(116.18 292.6)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st8" transform="translate(120.98 292.6)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st8" transform="translate(125.78 292.6)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st8" transform="translate(130.58 292.6)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st8" transform="translate(135.38 292.6)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st8" transform="translate(140.18 292.6)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st8" transform="translate(144.98 292.6)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st8" transform="translate(149.78 292.6)"><tspan x="0" y="0">t</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23836">
+        <path id="path23838" class="st48" d="M97.33,295.82h5.06c.83,0,1.51.68,1.51,1.51v5.06c0,.83-.68,1.51-1.51,1.51h-5.06c-.83,0-1.51-.68-1.51-1.51v-5.06c0-.84.68-1.51,1.51-1.51" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23840">
+        <g id="g23854">
+          <g class="st66">
+            <g id="g23852">
+              <g id="text23850" class="st7">
+                <text class="st8" transform="translate(106.58 302.2)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st8" transform="translate(111.38 302.2)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st8" transform="translate(116.18 302.2)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st8" transform="translate(120.98 302.2)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st8" transform="translate(125.78 302.2)"><tspan x="0" y="0">r</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23856">
+        <path id="path23858" class="st67" d="M97.33,305.66h5.06c.71,0,1.28.57,1.28,1.27v5.07c0,.7-.57,1.28-1.28,1.28h-5.06c-.7,0-1.28-.57-1.28-1.28v-5.07c0-.7.57-1.27,1.28-1.27" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23860">
+        <path id="path23862" class="st23" d="M97.33,305.66h5.06c.71,0,1.28.57,1.28,1.27v5.07c0,.7-.57,1.28-1.28,1.28h-5.06c-.7,0-1.28-.57-1.28-1.28v-5.07c0-.7.57-1.27,1.28-1.27Z" inkscape:connector-curvature="0"/>
+      </g>
+      <g id="g23864">
+        <g id="g23878">
+          <g class="st35">
+            <g id="g23876">
+              <g id="text23874" class="st7">
+                <text class="st8" transform="translate(106.58 311.8)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st8" transform="translate(111.38 311.8)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st8" transform="translate(116.18 311.8)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st8" transform="translate(120.98 311.8)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st8" transform="translate(125.78 311.8)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st8" transform="translate(130.58 311.8)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st8" transform="translate(135.38 311.8)"><tspan x="0" y="0">l</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23880">
+        <g id="g23894">
+          <g class="st57">
+            <g id="g23892">
+              <g id="text23890" class="st7">
+                <text class="st10" transform="translate(270.19 232.42)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st10" transform="translate(274.99 232.42)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st10" transform="translate(279.79 232.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(284.59 232.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(289.39 232.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(294.19 232.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(298.99 232.42)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st10" transform="translate(303.79 232.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(308.59 232.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(313.39 232.42)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st10" transform="translate(318.19 232.42)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st10" transform="translate(322.99 232.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(327.79 232.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(332.59 232.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(337.39 232.42)"><tspan x="0" y="0">(</tspan></text>
+                <text class="st10" transform="translate(342.19 232.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(346.99 232.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(351.79 232.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(356.59 232.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(361.39 232.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(366.19 232.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(370.99 232.42)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st10" transform="translate(375.79 232.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(380.59 232.42)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st10" transform="translate(385.39 232.42)"><tspan x="0" y="0">)</tspan></text>
+                <text class="st10" transform="translate(390.19 232.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(394.99 232.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(399.79 232.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(404.59 232.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(409.39 232.42)"><tspan x="0" y="0">D</tspan></text>
+                <text class="st10" transform="translate(414.19 232.42)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(418.99 232.42)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st10" transform="translate(423.79 232.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(428.59 232.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(433.39 232.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(438.19 232.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(442.99 232.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(447.79 232.42)"><tspan x="0" y="0">n</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23896">
+        <g id="g23910">
+          <g class="st95">
+            <g id="g23908">
+              <g id="text23906" class="st7">
+                <text class="st10" transform="translate(270.19 240.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(274.99 240.42)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st10" transform="translate(279.79 240.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(284.59 240.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(289.39 240.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(294.19 240.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(298.99 240.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(303.79 240.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(308.59 240.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(313.39 240.42)"><tspan x="0" y="0">x</tspan></text>
+                <text class="st10" transform="translate(318.19 240.42)"><tspan x="0" y="0">-</tspan></text>
+                <text class="st10" transform="translate(322.99 240.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(327.79 240.42)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(332.59 240.42)"><tspan x="0" y="0">+</tspan></text>
+                <text class="st10" transform="translate(337.39 240.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(342.19 240.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(346.99 240.42)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st10" transform="translate(351.79 240.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(356.59 240.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(361.39 240.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(366.19 240.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(370.99 240.42)"><tspan x="0" y="0">g</tspan></text>
+                <text class="st10" transform="translate(375.79 240.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(380.59 240.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(385.39 240.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(390.19 240.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(394.99 240.42)"><tspan x="0" y="0">4</tspan></text>
+                <text class="st10" transform="translate(399.79 240.42)"><tspan x="0" y="0">8</tspan></text>
+                <text class="st10" transform="translate(404.59 240.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(409.39 240.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(414.19 240.42)"><tspan x="0" y="0">H</tspan></text>
+                <text class="st10" transform="translate(418.99 240.42)"><tspan x="0" y="0">z</tspan></text>
+                <text class="st10" transform="translate(423.79 240.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(428.59 240.42)"><tspan x="0" y="0">w</tspan></text>
+                <text class="st10" transform="translate(433.39 240.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(438.19 240.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(442.99 240.42)"><tspan x="0" y="0">h</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23912">
+        <g id="g23926">
+          <g class="st79">
+            <g id="g23924">
+              <g id="text23922" class="st7">
+                <text class="st10" transform="translate(270.19 248.42)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st10" transform="translate(274.99 248.42)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(279.79 248.42)"><tspan x="0" y="0">k</tspan></text>
+                <text class="st10" transform="translate(284.59 248.42)"><tspan x="0" y="0">B</tspan></text>
+                <text class="st10" transform="translate(289.39 248.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(294.19 248.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(298.99 248.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(303.79 248.42)"><tspan x="0" y="0">-</tspan></text>
+                <text class="st10" transform="translate(308.59 248.42)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st10" transform="translate(313.39 248.42)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st10" transform="translate(318.19 248.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(322.99 248.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(327.79 248.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(332.59 248.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(337.39 248.42)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st10" transform="translate(342.19 248.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(346.99 248.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(351.79 248.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(356.59 248.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(361.39 248.42)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(366.19 248.42)"><tspan x="0" y="0">5</tspan></text>
+                <text class="st10" transform="translate(370.99 248.42)"><tspan x="0" y="0">6</tspan></text>
+                <text class="st10" transform="translate(375.79 248.42)"><tspan x="0" y="0">K</tspan></text>
+                <text class="st10" transform="translate(380.59 248.42)"><tspan x="0" y="0">B</tspan></text>
+                <text class="st10" transform="translate(385.39 248.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(390.19 248.42)"><tspan x="0" y="0">F</tspan></text>
+                <text class="st10" transform="translate(394.99 248.42)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st10" transform="translate(399.79 248.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(404.59 248.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(409.39 248.42)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st10" transform="translate(414.19 248.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(418.99 248.42)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st10" transform="translate(423.79 248.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(428.59 248.42)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st10" transform="translate(433.39 248.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(438.19 248.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(442.99 248.42)"><tspan x="0" y="0">y</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23928">
+        <g id="g23942">
+          <g class="st0">
+            <g id="g23940">
+              <g id="text23938" class="st7">
+                <text class="st10" transform="translate(270.19 256.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(274.99 256.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(279.79 256.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(284.59 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(289.39 256.42)"><tspan x="0" y="0">b</tspan></text>
+                <text class="st10" transform="translate(294.19 256.42)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st10" transform="translate(298.99 256.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(303.79 256.42)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st10" transform="translate(308.59 256.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(313.39 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(318.19 256.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(322.99 256.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(327.79 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(332.59 256.42)"><tspan x="0" y="0">U</tspan></text>
+                <text class="st10" transform="translate(337.39 256.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(342.19 256.42)"><tspan x="0" y="0">B</tspan></text>
+                <text class="st10" transform="translate(346.99 256.42)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st10" transform="translate(351.79 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(356.59 256.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(361.39 256.42)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st10" transform="translate(366.19 256.42)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st10" transform="translate(370.99 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(375.79 256.42)"><tspan x="0" y="0">G</tspan></text>
+                <text class="st10" transform="translate(380.59 256.42)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st10" transform="translate(385.39 256.42)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(390.19 256.42)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st10" transform="translate(394.99 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(399.79 256.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(404.59 256.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(409.39 256.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(414.19 256.42)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st10" transform="translate(418.99 256.42)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st10" transform="translate(423.79 256.42)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st10" transform="translate(428.59 256.42)"><tspan x="0" y="0">V</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23944">
+        <g id="g23958">
+          <g class="st73">
+            <g id="g23956">
+              <g id="text23954" class="st7">
+                <text class="st10" transform="translate(270.19 264.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(274.99 264.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(279.79 264.42)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st10" transform="translate(284.59 264.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(289.39 264.42)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st10" transform="translate(294.19 264.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(298.99 264.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(303.79 264.42)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st10" transform="translate(308.59 264.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(313.39 264.42)"><tspan x="0" y="0">x</tspan></text>
+                <text class="st10" transform="translate(318.19 264.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(322.99 264.42)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st10" transform="translate(327.79 264.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(332.59 264.42)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st10" transform="translate(337.39 264.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(342.19 264.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(346.99 264.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(351.79 264.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(356.59 264.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(361.39 264.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(366.19 264.42)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st10" transform="translate(370.99 264.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(375.79 264.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(380.59 264.42)"><tspan x="0" y="0">w</tspan></text>
+                <text class="st10" transform="translate(385.39 264.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(390.19 264.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(394.99 264.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(399.79 264.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(404.59 264.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(409.39 264.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(414.19 264.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(418.99 264.42)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st10" transform="translate(423.79 264.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(428.59 264.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(433.39 264.42)"><tspan x="0" y="0">.</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23960">
+        <g id="g23974">
+          <g class="st89">
+            <g id="g23972">
+              <g id="text23970" class="st7">
+                <text class="st10" transform="translate(270.19 272.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(274.99 272.42)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st10" transform="translate(279.79 272.42)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st10" transform="translate(284.59 272.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(289.39 272.42)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st10" transform="translate(294.19 272.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(298.99 272.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(303.79 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(308.59 272.42)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st10" transform="translate(313.39 272.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(318.19 272.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(322.99 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(327.79 272.42)"><tspan x="0" y="0">b</tspan></text>
+                <text class="st10" transform="translate(332.59 272.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(337.39 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(342.19 272.42)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st10" transform="translate(346.99 272.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(351.79 272.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(356.59 272.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(361.39 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(366.19 272.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(370.99 272.42)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st10" transform="translate(375.79 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(380.59 272.42)"><tspan x="0" y="0">U</tspan></text>
+                <text class="st10" transform="translate(385.39 272.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(390.19 272.42)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st10" transform="translate(394.99 272.42)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st10" transform="translate(399.79 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(404.59 272.42)"><tspan x="0" y="0">(</tspan></text>
+                <text class="st10" transform="translate(409.39 272.42)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st10" transform="translate(414.19 272.42)"><tspan x="0" y="0">X</tspan></text>
+                <text class="st10" transform="translate(418.99 272.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(423.79 272.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(428.59 272.42)"><tspan x="0" y="0">n</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23976">
+        <g id="g23990">
+          <g class="st39">
+            <g id="g23988">
+              <g id="text23986" class="st7">
+                <text class="st10" transform="translate(270.19 280.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(274.99 280.42)"><tspan x="0" y="0">E</tspan></text>
+                <text class="st10" transform="translate(279.79 280.42)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st10" transform="translate(284.59 280.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(289.39 280.42)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st10" transform="translate(294.19 280.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(298.99 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(303.79 280.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(308.59 280.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(313.39 280.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(318.19 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(322.99 280.42)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(327.79 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(332.59 280.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(337.39 280.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(342.19 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(346.99 280.42)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(351.79 280.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(356.59 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(361.39 280.42)"><tspan x="0" y="0">R</tspan></text>
+                <text class="st10" transform="translate(366.19 280.42)"><tspan x="0" y="0">X</tspan></text>
+                <text class="st10" transform="translate(370.99 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(375.79 280.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(380.59 280.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(385.39 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(390.19 280.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(394.99 280.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(399.79 280.42)"><tspan x="0" y="0">y</tspan></text>
+                <text class="st10" transform="translate(404.59 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(409.39 280.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(414.19 280.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(418.99 280.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(423.79 280.42)"><tspan x="0" y="0">)</tspan></text>
+                <text class="st10" transform="translate(428.59 280.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(433.39 280.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(438.19 280.42)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(442.99 280.42)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(447.79 280.42)"><tspan x="0" y="0">C</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g23992">
+        <g id="g24006">
+          <g class="st88">
+            <g id="g24004">
+              <g id="text24002" class="st7">
+                <text class="st10" transform="translate(270.19 288.42)"><tspan x="0" y="0">(</tspan></text>
+                <text class="st10" transform="translate(274.99 288.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(279.79 288.42)"><tspan x="0" y="0">D</tspan></text>
+                <text class="st10" transform="translate(284.59 288.42)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st10" transform="translate(289.39 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(294.19 288.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(298.99 288.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(303.79 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(308.59 288.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(313.39 288.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(318.19 288.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(322.99 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(327.79 288.42)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(332.59 288.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(337.39 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(342.19 288.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(346.99 288.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(351.79 288.42)"><tspan x="0" y="0">L</tspan></text>
+                <text class="st10" transform="translate(356.59 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(361.39 288.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(366.19 288.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(370.99 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(375.79 288.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(380.59 288.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(385.39 288.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(390.19 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(394.99 288.42)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st10" transform="translate(399.79 288.42)"><tspan x="0" y="0">)</tspan></text>
+                <text class="st10" transform="translate(404.59 288.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(409.39 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(414.19 288.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(418.99 288.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(423.79 288.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(428.59 288.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(433.39 288.42)"><tspan x="0" y="0">P</tspan></text>
+                <text class="st10" transform="translate(438.19 288.42)"><tspan x="0" y="0">I</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g24008">
+        <g id="g24022">
+          <g class="st62">
+            <g id="g24020">
+              <g id="text24018" class="st7">
+                <text class="st10" transform="translate(270.19 296.42)"><tspan x="0" y="0">(</tspan></text>
+                <text class="st10" transform="translate(274.99 296.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(279.79 296.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(284.59 296.42)"><tspan x="0" y="0">K</tspan></text>
+                <text class="st10" transform="translate(289.39 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(294.19 296.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(298.99 296.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(303.79 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(308.59 296.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(313.39 296.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(318.19 296.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(322.99 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(327.79 296.42)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st10" transform="translate(332.59 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(337.39 296.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(342.19 296.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(346.99 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(351.79 296.42)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st10" transform="translate(356.59 296.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(361.39 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(366.19 296.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(370.99 296.42)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st10" transform="translate(375.79 296.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(380.59 296.42)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(385.39 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(390.19 296.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(394.99 296.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(399.79 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(404.59 296.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(409.39 296.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(414.19 296.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(418.99 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(423.79 296.42)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(428.59 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(433.39 296.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(438.19 296.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(442.99 296.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(447.79 296.42)"><tspan x="0" y="0">3</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g24024">
+        <g id="g24038">
+          <g class="st54">
+            <g id="g24036">
+              <g id="text24034" class="st7">
+                <text class="st10" transform="translate(270.19 304.42)"><tspan x="0" y="0">(</tspan></text>
+                <text class="st10" transform="translate(274.99 304.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(279.79 304.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(284.59 304.42)"><tspan x="0" y="0">K</tspan></text>
+                <text class="st10" transform="translate(289.39 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(294.19 304.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(298.99 304.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(303.79 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(308.59 304.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(313.39 304.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(318.19 304.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(322.99 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(327.79 304.42)"><tspan x="0" y="0">1</tspan></text>
+                <text class="st10" transform="translate(332.59 304.42)"><tspan x="0" y="0">)</tspan></text>
+                <text class="st10" transform="translate(337.39 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(342.19 304.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(346.99 304.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(351.79 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(356.59 304.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(361.39 304.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(366.19 304.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(370.99 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(375.79 304.42)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st10" transform="translate(380.59 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(385.39 304.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(390.19 304.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(394.99 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(399.79 304.42)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st10" transform="translate(404.59 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(409.39 304.42)"><tspan x="0" y="0">(</tspan></text>
+                <text class="st10" transform="translate(414.19 304.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(418.99 304.42)"><tspan x="0" y="0">C</tspan></text>
+                <text class="st10" transform="translate(423.79 304.42)"><tspan x="0" y="0">K</tspan></text>
+                <text class="st10" transform="translate(428.59 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(433.39 304.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(438.19 304.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(442.99 304.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(447.79 304.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(452.59 304.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(457.39 304.42)"><tspan x="0" y="0">d</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g24040">
+        <g id="g24054">
+          <g class="st97">
+            <g id="g24052">
+              <g id="text24050" class="st7">
+                <text class="st10" transform="translate(270.19 312.42)"><tspan x="0" y="0">3</tspan></text>
+                <text class="st10" transform="translate(274.99 312.42)"><tspan x="0" y="0">)</tspan></text>
+                <text class="st10" transform="translate(279.79 312.42)"><tspan x="0" y="0">,</tspan></text>
+                <text class="st10" transform="translate(284.59 312.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(289.39 312.42)"><tspan x="0" y="0">M</tspan></text>
+                <text class="st10" transform="translate(294.19 312.42)"><tspan x="0" y="0">I</tspan></text>
+                <text class="st10" transform="translate(298.99 312.42)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st10" transform="translate(303.79 312.42)"><tspan x="0" y="0">O</tspan></text>
+                <text class="st10" transform="translate(308.59 312.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(313.39 312.42)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st10" transform="translate(318.19 312.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(322.99 312.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(327.79 312.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(332.59 312.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(337.39 312.42)"><tspan x="0" y="0">y</tspan></text>
+                <text class="st10" transform="translate(342.19 312.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(346.99 312.42)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st10" transform="translate(351.79 312.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(356.59 312.42)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st10" transform="translate(361.39 312.42)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st10" transform="translate(366.19 312.42)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st10" transform="translate(370.99 312.42)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st10" transform="translate(375.79 312.42)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st10" transform="translate(380.59 312.42)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st10" transform="translate(385.39 312.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(390.19 312.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(394.99 312.42)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st10" transform="translate(399.79 312.42)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st10" transform="translate(404.59 312.42)"><tspan x="0" y="0">g</tspan></text>
+                <text class="st10" transform="translate(409.39 312.42)"><tspan x="0" y="0">)</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g24056">
+        <g id="g24070">
+          <g class="st43">
+            <g id="g24068">
+              <g id="text24066" class="st7">
+                <text class="st9" transform="translate(107.23 56.73)"><tspan x="0" y="0">A</tspan></text>
+                <text class="st9" transform="translate(120.03 56.73)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st9" transform="translate(132.83 56.73)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st9" transform="translate(145.63 56.73)"><tspan x="0" y="0">f</tspan></text>
+                <text class="st9" transform="translate(158.43 56.73)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st9" transform="translate(171.23 56.73)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st9" transform="translate(184.03 56.73)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st9" transform="translate(196.83 56.73)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st9" transform="translate(209.63 56.73)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st9" transform="translate(222.43 56.73)"><tspan x="0" y="0">S</tspan></text>
+                <text class="st9" transform="translate(235.23 56.73)"><tspan x="0" y="0">l</tspan></text>
+                <text class="st9" transform="translate(248.03 56.73)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st9" transform="translate(260.83 56.73)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st9" transform="translate(273.63 56.73)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st9" transform="translate(286.43 56.73)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st9" transform="translate(299.23 56.73)"><tspan x="0" y="0"> </tspan></text>
+                <text class="st9" transform="translate(312.03 56.73)"><tspan x="0" y="0">T</tspan></text>
+                <text class="st9" transform="translate(324.83 56.73)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st9" transform="translate(337.63 56.73)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st9" transform="translate(350.43 56.73)"><tspan x="0" y="0">n</tspan></text>
+                <text class="st9" transform="translate(363.23 56.73)"><tspan x="0" y="0">k</tspan></text>
+                <text class="st9" transform="translate(376.03 56.73)"><tspan x="0" y="0">e</tspan></text>
+                <text class="st9" transform="translate(388.83 56.73)"><tspan x="0" y="0">y</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="g24072">
+        <g id="g24086">
+          <g class="st52">
+            <g id="g24084">
+              <g id="text24082" class="st7">
+                <text class="st6" transform="translate(78.06 76.73)"><tspan x="0" y="0">h</tspan></text>
+                <text class="st6" transform="translate(87.66 76.73)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st6" transform="translate(97.26 76.73)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st6" transform="translate(106.86 76.73)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st6" transform="translate(116.46 76.73)"><tspan x="0" y="0">s</tspan></text>
+                <text class="st6" transform="translate(126.06 76.73)"><tspan x="0" y="0">:</tspan></text>
+                <text class="st6" transform="translate(135.66 76.73)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st6" transform="translate(145.26 76.73)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st6" transform="translate(154.86 76.73)"><tspan x="0" y="0">w</tspan></text>
+                <text class="st6" transform="translate(164.46 76.73)"><tspan x="0" y="0">w</tspan></text>
+                <text class="st6" transform="translate(174.06 76.73)"><tspan x="0" y="0">w</tspan></text>
+                <text class="st6" transform="translate(183.66 76.73)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st6" transform="translate(193.26 76.73)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st6" transform="translate(202.86 76.73)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st6" transform="translate(212.46 76.73)"><tspan x="0" y="0">a</tspan></text>
+                <text class="st6" transform="translate(222.06 76.73)"><tspan x="0" y="0">f</tspan></text>
+                <text class="st6" transform="translate(231.66 76.73)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st6" transform="translate(241.26 76.73)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st6" transform="translate(250.86 76.73)"><tspan x="0" y="0">i</tspan></text>
+                <text class="st6" transform="translate(260.46 76.73)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st6" transform="translate(270.06 76.73)"><tspan x="0" y="0">.</tspan></text>
+                <text class="st6" transform="translate(279.66 76.73)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st6" transform="translate(289.26 76.73)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st6" transform="translate(298.86 76.73)"><tspan x="0" y="0">m</tspan></text>
+                <text class="st6" transform="translate(308.46 76.73)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st6" transform="translate(318.06 76.73)"><tspan x="0" y="0">p</tspan></text>
+                <text class="st6" transform="translate(327.66 76.73)"><tspan x="0" y="0">r</tspan></text>
+                <text class="st6" transform="translate(337.26 76.73)"><tspan x="0" y="0">o</tspan></text>
+                <text class="st6" transform="translate(346.86 76.73)"><tspan x="0" y="0">d</tspan></text>
+                <text class="st6" transform="translate(356.46 76.73)"><tspan x="0" y="0">u</tspan></text>
+                <text class="st6" transform="translate(366.06 76.73)"><tspan x="0" y="0">c</tspan></text>
+                <text class="st6" transform="translate(375.66 76.73)"><tspan x="0" y="0">t</tspan></text>
+                <text class="st6" transform="translate(385.26 76.73)"><tspan x="0" y="0">/</tspan></text>
+                <text class="st6" transform="translate(394.86 76.73)"><tspan x="0" y="0">5</tspan></text>
+                <text class="st6" transform="translate(404.46 76.73)"><tspan x="0" y="0">0</tspan></text>
+                <text class="st6" transform="translate(414.06 76.73)"><tspan x="0" y="0">2</tspan></text>
+                <text class="st6" transform="translate(423.66 76.73)"><tspan x="0" y="0">1</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text class="st3" transform="translate(133.75 126.8)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+</svg>
